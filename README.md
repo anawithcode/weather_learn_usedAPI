@@ -48,5 +48,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 print("API Key berhasil dimuat dengan aman!")
 
+<https://www.youtube.com/watch?v=sOwG0bw0RNU>
 
-Kunjungi [Google](https://www.youtube.com/watch?v=sOwG0bw0RNU&utm_source=chatgpt.com) untuk toturial memakai api khususnya para pelajar data science.
+```
+Semoga Lancar Terus Belajarnya..
