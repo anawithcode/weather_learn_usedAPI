@@ -28,9 +28,12 @@ AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
 
 **2. Berkas `.gitignore`**
 # Abaikan file lingkungan lokal
+
+```.gitignore
 .env
 __pycache__/
 venv/
+```
 
 **3. Contoh Implementasi di Kode (Python) `python`**
 ```python
